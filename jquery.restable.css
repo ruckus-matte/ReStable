@@ -38,3 +38,7 @@ ul.tabletolist ul > li .row_headers {
 ul.tabletolist ul > li .row_data {
     float:right;font-weight:800;
 }
+/* With a single footer cell */
+ul.tabletolist.sf .footnotes {
+    background-color: transparent;font-weight: 300;
+}
