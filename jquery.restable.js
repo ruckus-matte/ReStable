@@ -1,7 +1,10 @@
-/*! ReStable v0.1.1 by Alessandro Benoit */
+/*
+    ReStable by Alessandro Benoit
+    v0.1.2
+*/
 
 /* --------
-    EDITED by skerichards 2014-01-17
+    EDITED for Ruckus by skerichards 2014-01-17
     changed cell calls from .text() to .html()
     added option for a footer with a single cell which spans the full table
     changed list ID output to reflect original element ID or class, or generic if neither is available
